@@ -35,3 +35,6 @@ Otherwise, clone this repository, and then you can use the following commands:
 
 Copyright 2017–2021, the Automerge contributors. Released under the terms of the
 MIT license (see `LICENSE`).
+
+
+### Automerge test
